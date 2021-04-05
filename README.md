@@ -1,4 +1,5 @@
 ### Hi there 👋
+![banner](https://user-images.githubusercontent.com/69704125/113629453-cf984880-963c-11eb-9c6c-2fd9e6319a3d.jpg)
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
