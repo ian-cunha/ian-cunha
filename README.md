@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/69704125/113629453-cf984880-963c-11eb-9c6c-2fd9e6319a3d.jpg)
+![gitbanner](https://user-images.githubusercontent.com/69704125/113632712-10df2700-9642-11eb-8522-ae2e9e87e96e.jpg)
 ### Olá! 👋
 
 Sou Ian, um desenvolvedor de front-end autodidata apaixonado.
