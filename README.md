@@ -1,4 +1,3 @@
-![gitbanner]
 ### Olá! 👋
 
 Sou Ian, um desenvolvedor de front-end autodidata apaixonado.
