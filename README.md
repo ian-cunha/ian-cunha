@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Sou Ian, um desenvolvedor de front-end autodidata apaixonado.
+Sou Ian, dev front-end autodidata apaixonado.
 
 Sinta-se à vontade para dar uma olhada em meus projetos recentes!
 
