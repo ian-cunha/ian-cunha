@@ -2,7 +2,7 @@
 
 Sou Ian, dev front-end autodidata apaixonado.
 
-Sinta-se à vontade para dar uma olhada em meus projetos recentes!
+Sinta-se à vontade para dar uma olhada em meus projetos!
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
