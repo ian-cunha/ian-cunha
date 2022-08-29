@@ -1,8 +1,8 @@
 ### Olá! 👋
 
-Sou Ian, dev front-end autodidata apaixonado.
+Sou Ian, Desenvolvedor Front End na MARTA Inteligência Imobiliária.
 
-Sinta-se à vontade para dar uma olhada em meus projetos!
+Sinta-se à vontade em dar uma olhada em meus projetos!
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
