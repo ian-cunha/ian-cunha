@@ -10,6 +10,8 @@ Na Marta Inteligência Imobiliária sou da equipe de marketing atuando em criaç
 
 Procuro nessa minha passagem agregar o máximo de experiências para contribuir em atividades de diferentes áreas.
 
+https://ian-cunha.vercel.app/
+
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
