@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Fullstack Developer and Designer with over 3 years of experience creating innovative digital solutions. I have a history of developing web and mobile applications, combining programming skills with a user-centered design vision.
+Fullstack Developer and Designer with over 4 years of experience creating innovative digital solutions. I have a history of developing web and mobile applications, combining programming skills with a user-centered design vision.
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
