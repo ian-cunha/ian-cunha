@@ -1,16 +1,8 @@
-### Olá! 👋
+### Hello! 👋
 
-Sou Ian, Desenvolvedor Front End na MARTA Inteligência Imobiliária.
+[PT]Desenvolvedor Fullstack e Designer com mais de 3 anos de experiência na criação de soluções digitais inovadoras. Possuo um histórico de desenvolvimento de aplicativos web e móveis, combinando habilidades de programação com uma visão de design centrada no usuário.
 
-🔭 Sinta-se à vontade em dar uma olhada em meus projetos!
-
-Formação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá-PE, atuo na área de desenvolvimento Front End em Marta Inteligência Imobiliária, além disso sou designer ui/ux.
-Dedico meu tempo livre para produção de ideias, como otimizar layouts para facilitar o fluxo de informação e por consequência melhorar resultados.
-Na Marta Inteligência Imobiliária sou da equipe de marketing atuando em criação de landing pages, otimização de layouts, implementação de melhorias em sites e construção de peças para redes sociais.
-
-Procuro nessa minha passagem agregar o máximo de experiências para contribuir em atividades de diferentes áreas.
-
-https://ian-cunha.vercel.app/
+[EN]Fullstack Developer and Designer with over 3 years of experience creating innovative digital solutions. I have a history of developing web and mobile applications, combining programming skills with a user-centered design vision.
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
