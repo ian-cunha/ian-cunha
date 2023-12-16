@@ -14,6 +14,7 @@ Fullstack Developer and Designer with over 4 years of experience creating innova
 # Redes
 * [Linkedin](https://linktr.ee/ian.cunha)
 * [Instagram](https://www.instagram.com/ian.pictures/)
+* [X/Twitter](https://twitter.com/inatus0x)
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
