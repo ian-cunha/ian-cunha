@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ian Cunha 👋
 
-Fullstack Developer and Designer with over 4 years of experience creating innovative digital solutions. I have a history of developing web and mobile applications, combining programming skills with a user-centered design vision.
+Desenvolvedor e Designer Fullstack com mais de 4 anos de experiência criando soluções digitais inovadoras. Tenho um histórico de desenvolvimento de aplicações web e mobile, combinando habilidades de programação com uma visão de design centrada no usuário.
 
 # Tecnologias que eu uso no meu dia
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
