@@ -17,6 +17,7 @@ Desenvolvedor Fullstack e Designer com mais de 4 anos de experiência criando so
 * [Linkedin](https://linktr.ee/ian.cunha)
 * [Instagram](https://www.instagram.com/ian.pictures/)
 * [X/Twitter](https://twitter.com/inatus0x)
+* [Linktr.ee](linktr.ee/ian.cunha)
 
 <!--
 **ian-cunha/ian-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
