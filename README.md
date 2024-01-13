@@ -14,7 +14,7 @@ Desenvolvedor Fullstack e Designer com mais de 4 anos de experiência criando so
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # Redes
-* [Linkedin]([https://linktr.ee/ian.cunha](https://www.linkedin.com/in/iancunha/))
+* [Linkedin](https://www.linkedin.com/in/iancunha/)
 * [Instagram](https://www.instagram.com/ian.pictures/)
 * [X/Twitter](https://twitter.com/inatus0x)
 
