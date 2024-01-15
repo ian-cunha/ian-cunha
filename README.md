@@ -12,6 +12,7 @@ Desenvolvedor Fullstack e Designer com mais de 4 anos de experiência criando so
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%fffff.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Redes
 * [Linkedin](https://www.linkedin.com/in/iancunha/)
