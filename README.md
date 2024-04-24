@@ -17,7 +17,7 @@ Desenvolvedor Fullstack e Designer com mais de 4 anos de experiência criando so
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Ian Cunha GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-cunha&show_icons=true&theme=dracula)
+![Ian Cunha GitHub stats](https://github-readme-stats.vercel.app/api?username=ian-cunha&show_icons=true&theme=dark)
 
 # Redes
 * [Linkedin](https://www.linkedin.com/in/iancunha/)
