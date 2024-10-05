@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ian Cunha 👋
 
-Desenvolvedor Fullstack e Designer com mais de 4 anos de experiência criando soluções digitais inovadoras. Tenho um histórico de desenvolvimento de aplicações web e mobile, combinando habilidades de programação com uma visão de design centrada no usuário.
+Desenvolvedor Fullstack e Designer com mais de 5 anos de experiência criando soluções digitais inovadoras. Tenho um histórico de desenvolvimento de aplicações web e mobile, combinando habilidades de programação com uma visão de design centrada no usuário.
 
 ### Conecte-se comigo
 
