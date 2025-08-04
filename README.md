@@ -9,6 +9,8 @@ Desenvolvedor especializado no desenvolvimento de soluções digitais inovadoras
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/iancunha20)
 
 ### Tecnologias que uso:
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -19,7 +21,6 @@ Desenvolvedor especializado no desenvolvimento de soluções digitais inovadoras
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 
 <!-- ### GitHub Status -->
 
