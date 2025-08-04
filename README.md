@@ -17,9 +17,7 @@ Desenvolvedor especializado no desenvolvimento de soluções digitais inovadoras
 ![React Native](https://img.shields.io/badge/react_native-000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <!-- ### GitHub Status -->
