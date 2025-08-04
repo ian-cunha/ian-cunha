@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ian Cunha 👋
 
-Desenvolvedor especializado no desenvolvimento de soluções digitais inovadoras, desde aplicativos móveis e sistemas robustos até landing pages de alta conversão. Apaixonado por transformar ideias em produtos funcionais.
+Desenvolvedor especializado no desenvolvimento de soluções digitais inovadoras, desde aplicativos móveis, sistemas robustos e outros. Apaixonado por transformar ideias em produtos funcionais.
 
 ### Conecte-se comigo
 
