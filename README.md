@@ -1,6 +1,6 @@
-### Olá! Eu sou o Ian Cunha 👋
+### Olá! Eu sou o Ian C. Moura 👋
 
-Desenvolvedor especializado no desenvolvimento de soluções digitais inovadoras, desde aplicativos móveis, sistemas robustos e outros. Apaixonado por transformar ideias em produtos funcionais.
+Atuo no desenvolvimento desde interfaces de alta performance até a orquestração e deploy de infraestruturas robustas. Para garantir entregas escaláveis e seguras, construí uma fundação técnica sólida: sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Software e MBA em Análise de Dados, além de possuir certificações focadas em cloud e infraestrutura (Linux, Docker e Kubernetes).
 
 ### Conecte-se comigo
 
