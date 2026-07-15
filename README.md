@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Ian C. Moura 👋
 
+Acredito que a tecnologia só cumpre seu propósito quando resolve problemas reais e gera resultados financeiros. Como Desenvolvedor meu foco é arquitetar e desenvolver soluções de ponta a ponta que dão escala para os clientes e diminuem drasticamente seus custos operacionais.
+
 Atuo no desenvolvimento desde interfaces de alta performance até a orquestração e deploy de infraestruturas robustas. Para garantir entregas escaláveis e seguras, construí uma fundação técnica sólida: sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Software e MBA em Análise de Dados, além de possuir certificações focadas em cloud e infraestrutura (Linux, Docker e Kubernetes).
 
 ### Conecte-se comigo
